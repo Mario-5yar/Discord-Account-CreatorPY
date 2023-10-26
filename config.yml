@@ -1,5 +1,5 @@
 captcha:
-  key: "CAP-51547E428B55710DF18681B9306F3F2A"
+  key: "CAP-9E67230CD9A5B7E5B5EE1311AF1EC84A"
   provider: "capsolver.com" # Or capmonster.cloud, more soon
   site key: "4c672d35-0701-42b2-88c3-78380b0db560" # Changes 1-2 times a year
 
